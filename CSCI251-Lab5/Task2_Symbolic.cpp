@@ -18,13 +18,13 @@ void symbol(T value, char symbol, int size) {
 
 	string str = "";
 
-	for (int x = 0; i < size; i++) {
+	for (int x = 0; x < size; x++) {
 		str += symbol;
 	}
 
 	str += " " + value + " ";
 
-	for (int x = 0; i < size; i++) {
+	for (int x = 0; x < size; x++) {
 		str += symbol;
 	}
 

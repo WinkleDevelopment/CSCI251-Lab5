@@ -36,3 +36,13 @@ int main() {
 	return 0;
 
 }
+
+/*
+
+What is it trying to do?
+	The method takes an input and performs the fibonacci sequence and its result is the the number at the input position.
+
+When will it work on a type?
+	The method does work with other datatypes (int) but doesn't accurately give a correct result.
+
+*/

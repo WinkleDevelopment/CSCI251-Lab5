@@ -145,6 +145,12 @@
     <ClCompile Include="Task3_DebugB.cpp" />
     <ClCompile Include="Task3_FibT.cpp" />
     <ClCompile Include="Task3_One.cpp" />
+    <ClCompile Include="Task3_Two.cpp" />
+    <ClCompile Include="Task4_Doubled.cpp" />
+    <ClCompile Include="Task5_FuncExp.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="README.md" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -33,5 +33,19 @@
     <ClCompile Include="Task3_One.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Task3_Two.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Task4_Doubled.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Task5_FuncExp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="README.md">
+      <Filter>Source Files</Filter>
+    </None>
   </ItemGroup>
 </Project>
